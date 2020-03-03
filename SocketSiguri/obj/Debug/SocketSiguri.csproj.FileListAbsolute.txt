@@ -1,0 +1,30 @@
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe.config
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.pdb
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Form1.resources
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.pdb
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe.config
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.pdb
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Form1.resources
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.pdb
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe.config
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\bin\Debug\SocketSiguri.pdb
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Form1.resources
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.exe
+C:\Users\Lenovo\Desktop\Viti 2 Projekte\Siguri_Final_Project\SocketSiguri\SocketSiguri\obj\Debug\SocketSiguri.pdb
